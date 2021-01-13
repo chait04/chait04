@@ -5,6 +5,9 @@
 <a href="https://twitter.com/https://twitter.com/chaitaanya04">
   <img align="left" alt="Chaitanya Khahane | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
+<a href='https://www.linkedin.com/in/chaitanya-khachane-334706198/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Chaitanya&color=blue&style=flat-square&logo=linkedin' />
+  </a>
 
 </br>
 
