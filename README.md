@@ -1,7 +1,7 @@
 ### Hi there, I'm Chaitanya!👋
 
 <code> Lets connect </code>
-<br>
+
 <a href="https://twitter.com/https://twitter.com/chaitaanya04">
   <img align="left" alt="Chaitanya Khahane | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
