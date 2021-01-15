@@ -34,4 +34,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chait04&layout=compact&theme=material-palenight" />
 </a>
 
-** Get connected with me <a href="https://www.linkedin.com/in/chaitanya-khachane-334706198/">here</a> : +1:
+:+1:
