@@ -34,4 +34,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chait04&layout=compact&theme=material-palenight" />
 </a>
 
-:+1:
