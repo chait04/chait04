@@ -12,6 +12,9 @@
 </br>
 <code> I am a front end developer with a year of experience in building websites and web applications. I specialize in advanced javascript .
 I mostly work with react . </code>
+
+</br>
+
 ## ⚡ Technologies I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
