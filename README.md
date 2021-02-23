@@ -1,4 +1,4 @@
-### Hi there, I'm Chaitanya!👋
+### Hello Nerds, I'm Chaitanya!👋
 
 <code> Lets connect </code>
 
