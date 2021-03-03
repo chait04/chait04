@@ -15,6 +15,10 @@ I mostly work with react . </code>
 
 </br>
 
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=chait04&label=Views&color=blue&style=plastic" alt="chait04" />
+ </p>
+
 ## ⚡ Technologies I use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
